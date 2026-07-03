@@ -6,3 +6,14 @@
 .DS_Store
 loc.py
 src/ec2
+
+# Large / generated data artifacts
+data/emnist/
+data/mnist_expanded.pkl.gz
+data/mnist.pkl.gz.bak
+
+# Reference PDFs (kept locally, not in the repo)
+linked papers to read/
+
+# Nielsen book figures (not needed for this fork)
+fig/
