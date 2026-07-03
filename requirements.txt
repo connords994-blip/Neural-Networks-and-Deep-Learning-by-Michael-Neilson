@@ -1,0 +1,12 @@
+# Core numerics (network.py, network2.py, network4.py, network5.py,
+# network6.py, expand_mnist.py, mnist_loader.py)
+numpy>=1.24
+scipy>=1.10
+
+# SVM baseline (mnist_svm.py)
+scikit-learn>=1.2
+
+# Convolutional and Siamese networks (network3.py, siamese.py)
+torch>=2.0
+torchvision>=0.15
+Pillow>=9.0
